@@ -97,6 +97,10 @@ adb shell pm enable com.google.android.tvlauncher
 - ESPN's public scoreboard for NBA scores
 - [Inter](https://rsms.me/inter/) typeface
 
+## Licence
+
+MIT, see `LICENSE`.
+
 ## Credits
 
 F1 circuit data comes from [f1-circuits](https://github.com/bacinger/f1-circuits) by Tomislav Bacinger, MIT licence (see `LICENSE-f1-circuits.txt`). Team names and logos are trademarks of their owners and are loaded from their public sites at runtime, not included in this repo. This is a personal project, not affiliated with Sony, Google, the NBA or Formula 1.
